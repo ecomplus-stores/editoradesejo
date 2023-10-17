@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6765159f81d8a6a3934382d89634ceef.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.ea21e7843184b79db2f2cbfce0d6bc37.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.78c03b717faf75a2cb30f8b7888ce169.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.6dffe2a0b3edde73050b1d9ce5bad966.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.35140af805b14df0e607a1f4b592d3a6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Editora Sesejo",
+  "short_name": "Editora Desejo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Editora Desejo vem para atender Escritores que buscam publicar seus Livros, mas não encontram portas abertas. Agora é a hora!",
+  "background_color": "#f3f6ff",
+  "theme_color": "#3380f3"
+}
